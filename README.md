@@ -5,7 +5,7 @@
 ## ✨ Sobre mim
 
 Olá! Meu nome é **Thiago de Oliveira Senra** e sou um estudante de estatística apaixonado por análise de dados. Meu objetivo é transformar dados em informações úteis para a tomada de decisão.
-Atualmente, foco em estatística aplicada, machine learning e visualização de dados, utilizando ferramentas como R, SQL (BigQuery) e Tableau. Tenho experiência com estatísticas não paramétricas e estou sempre buscando novos desafios para expandir meu conhecimento.
+Atualmente, foco em estatística aplicada, machine learning e visualização de dados, utilizando ferramentas como R, BigQuery e Power BI. Tenho experiência com estatísticas não paramétricas e estou sempre buscando novos desafios para expandir meu conhecimento.
 
 #### 📊 Áreas de interesse:
 
